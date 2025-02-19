@@ -14,7 +14,7 @@ Following this evaluation, two key areas were identified as high-impact opportun
 2. **AI-generated feedback** - To ensure consistency, reduce grading variability, and enhance candidate experience.
 
 The subsequent sections outline the trade-offs associated with each AI-driven proposal, detailing the rationale behind the final architectural decisions. 
-This process ensured that the selected solutions - **[Auto Grading System for Test 1](./AI%20Flow%20Description/Files/Auto%20Grading%20System%20for%20Test%201.md)** and **[AI Feedback Assistant](./AI%20Flow%20Description/Files/AI%20Feedback%20Assistant.md)** - 
+This process ensured that the selected solutions - **[Auto Grading System for Test 1](/doc/architecture/ai-flow-description/auto-grading-system-for-test-1.md)** and **[AI Feedback Assistant](/doc/architecture/ai-flow-description/ai-feedback-assistant.md)** - 
 align with business goals, operational feasibility, and long-term scalability within the certification ecosystem.
 
 ---
